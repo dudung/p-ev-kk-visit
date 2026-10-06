@@ -1,9 +1,9 @@
 A visit from PLABS and ELSPINA VEINZ - KUSHIDA KOGYO to FMIPA ITB on Thu, 17 Sep 2026, 1300-1500 GMT+07
 
-<img src="img/DSC_7624.JPG" height="25%">
-<img src="img/DSC_7747.JPG" height="25%">
-<img src="img/DSC_7768.JPG" height="25%">
-<img src="img/WAI_20261006_224335.jpeg" height="25%">
+<img src="img/DSC_7624.JPG" height="200">
+<img src="img/DSC_7747.JPG" height="200">
+<img src="img/DSC_7768.JPG" height="200">
+<img src="img/WAI_20261006_224335.jpeg" height="200">
 
 + [`00`](pdf/00.pdf) Visit Agenda
 + [`01`](pdf/01.pdf) Physics Department Profile (Dr. Agus Suroso)

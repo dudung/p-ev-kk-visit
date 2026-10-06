@@ -11,7 +11,7 @@ A visit from PLABS and ELSPINA VEINZ - KUSHIDA KOGYO to FMIPA ITB on Thu, 17 Sep
 + [`04`](pdf/04.pdf) Digital Rock Physics: Workflow and Application Development (Dr. Fourier Latief)
 + [`05`](pdf/05.pdf) RAMAN-QA Software Platform (Prof. Mitra Djamal)
 + [`06`](pdf/06.pdf) Vegetable Oil Identification using NIR (Prof. Rachmat Hidayat)
-+ [`07`](pdf/07.pdf) QCM Sensor Array Measurement System (Prof. Khairurrijal )
++ [`07`](pdf/07.pdf) QCM Sensor Array Measurement System (Prof. Khairurrijal)
 + [`08`](pdf/08.pdf) Biophysics and Medical Physics Lab Research (Dr. rer. nat. Freddy Haryanto)
 + [`09`](pdf/09.pdf) Residual Waste Incinerator Research (Dr. Neni Surtiyeni)
 + [`10`](pdf/10.pdf) Chicken-Maggot Apartment: From Waste to Nutrition (Dr. rer. nat. Linus Pasasa)

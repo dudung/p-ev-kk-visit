@@ -5,7 +5,7 @@ A visit from PLABS and ELSPINA VEINZ - KUSHIDA KOGYO to FMIPA ITB on Thu, 17 Sep
 <img src="img/DSC_7768.JPG" width="30%">
 
 + [`00`](pdf/00.pdf) Visit Agenda
-+ [`01`](pdf/01.pdf) Physics Department Profile (Dr. Agus Suroso*)
++ [`01`](pdf/01.pdf) Physics Department Profile (Dr. Agus Suroso)
 + [`02`](pdf/02.pdf) IoT, Industry 4.0, and Smart System (Dr. Maman Budiman)
 + [`03`](pdf/03.pdf) Oil and Gas Pipeline Monitoring using FO (Prof. Bagus Endar)
 + [`04`](pdf/04.pdf) Digital Rock Physics: Workflow and Application Development (Dr. Fourier Latief)

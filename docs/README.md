@@ -1,5 +1,9 @@
 A visit from PLABS and ELSPINA VEINZ - KUSHIDA KOGYO to FMIPA ITB on Thu, 17 Sep 2026, 1300-1500 GMT+07
 
+<img src="img/DSC_7624.JPG" width="30%">
+<img src="img/DSC_7747.JPG" width="30%">
+<img src="img/DSC_7768.JPG" width="30%">
+
 + [`00`](pdf/00.pdf) Visit Agenda
 + [`01`](pdf/01.pdf) Physics Department Profile (Dr. Agus Suroso*)
 + [`02`](pdf/02.pdf) IoT, Industry 4.0, and Smart System (Dr. Maman Budiman)
@@ -14,5 +18,3 @@ A visit from PLABS and ELSPINA VEINZ - KUSHIDA KOGYO to FMIPA ITB on Thu, 17 Sep
 + `11` Electronics and Instrumentation Phycis Lab (Dr. Irfan Aditya)
 + `12` Many Entity Physical System (Dr. rer. nat. Sparisoma Viridi)
 + [`13`](pdf/13.pdf) List of Research Topics and Labs in Physics Department, FMIPA, ITB
-
-![](img/DSC_7624.JPG) ![](img/DSC_7747.JPG) ![](img/DSC_7768.JPG)
